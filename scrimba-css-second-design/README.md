@@ -87,4 +87,18 @@ Further exploring the box model, we want to make our sections’ headings look a
 - Color: #C4C4C4
 - To accomplish this without the spacing between the other text being changed, you’ll have to remember how the box model works.
 
+### 10th challenge Instructions
+#### All green text
+- color: #99d930
+- Font-weight: 900
+
+####The headings
+- h1: 80px
+- h2: 60px
+
+#### Button hover/focus
+- background: #fff
+- color: #252525
+
+
 
