@@ -1,16 +1,39 @@
-# title(){return this.options.title||this.options.name}
+# This Repository is for CSS Fundementals: Challenges
 
-## Supporting Scrimba
+### first challenge instructions:
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+1. Add the image after the <h1>
+2. Center the text for the entire page
+3. Add a new div with a class, wrapping all the content on the page, and assign
+   it a width of 570px
+4. Center that div on the page
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+### second challegne intructions:
 
-	It would also mean the world to us if you share the courses.  
+1. Find ‘Roboto’ on Google fonts
+2. Get only the “light” and the “black” weights
+3. Add the code needed to the HTML page
+4. Set the font family for the entire page to Roboto
 
-Happy Coding!
+### third challegne intructions:
+
+1. Typography
+
+### 4th challenge instructions:
+
+#### The titles need extra styling
+
+- h1: 80px
+- h2: 60px
+- The bold text must be on its own line
+- Link color: #99D930
+- Link hover color: #131313
+
+### 5th challenge instructions
+
+#### The titles need extra styling
+- h1: 80px
+- h2: 60px
+- The bold text must be on its own line
+- Link color: #99D930
+- Link hover color: #131313
