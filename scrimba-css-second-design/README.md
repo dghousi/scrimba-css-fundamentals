@@ -29,7 +29,7 @@
 - Link color: #99D930
 - Link hover color: #131313
 
-### 5th challenge instructions
+### 4.1th challenge instructions
 
 #### The titles need extra styling
 - h1: 80px
@@ -37,3 +37,21 @@
 - The bold text must be on its own line
 - Link color: #99D930
 - Link hover color: #131313
+
+### 5th challenge instructions
+#### Extra spacing
+- Each “part” of the site needs 100px of space on the top and the bottom
+- Each “part” needs a different background color that extends the entire width of the viewport
+
+#### Colors: 
+- #D7D7D7  
+- #FFEAEA
+- #EAF9FF
+
+### 6th challenge instructions
+- Add a dark color to 2 sections of the website
+- You can only add classes to your HTML, you cannot touch it in any other way
+
+### Colors
+- background: #252525
+- text: #fff
