@@ -1,6 +1,6 @@
 # This Repository is for CSS Fundementals: Challenges
 
-### first challenge instructions:
+### first challenge Instructions:
 
 1. Add the image after the <h1>
 2. Center the text for the entire page
@@ -19,7 +19,7 @@
 
 1. Typography
 
-### 4th challenge instructions:
+### 4th challenge Instructions:
 
 #### The titles need extra styling
 
@@ -29,7 +29,7 @@
 - Link color: #99D930
 - Link hover color: #131313
 
-### 4.1th challenge instructions
+### 4.1th challenge Instructions
 
 #### The titles need extra styling
 - h1: 80px
@@ -38,7 +38,7 @@
 - Link color: #99D930
 - Link hover color: #131313
 
-### 5th challenge instructions
+### 5th challenge Instructions
 #### Extra spacing
 - Each “part” of the site needs 100px of space on the top and the bottom
 - Each “part” needs a different background color that extends the entire width of the viewport
@@ -48,7 +48,7 @@
 - #FFEAEA
 - #EAF9FF
 
-### 6th challenge instructions
+### 6th challenge Instructions
 - Add a dark color to 2 sections of the website
 - You can only add classes to your HTML, you cannot touch it in any other way
 
@@ -56,7 +56,24 @@
 - background: #252525
 - text: #fff
 
-### 6th challenge instructions
+### 7th challenge Instructions
 - Fix all the spacing issues
 - Remember, all text elements come with spacing on the top and bottom of them by default.
 - You shouldn’t have to create any new selectors
+
+
+### 8th challenge Instructions
+- Create a class to style the “buttons”
+- Ensure that you include a hover and focus state
+
+#### Normal state
+- color: #252525
+- background: #99D930
+
+#### hover/focus
+- color: #fff
+- background: #252525
+
+### Some tips:
+- Don’t use width or height to create the size
+- You’ll have to change their display property
